@@ -11,6 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
+.project
+.idea
 *.jar
 *.war
 *.nar
